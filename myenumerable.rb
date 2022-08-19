@@ -13,6 +13,3 @@ module MyEnumerable
     false
   end
 end
-
-
-
